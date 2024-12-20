@@ -1,7 +1,7 @@
 # Redbus-Scrapping-using-selenium
 This project focuses on automating the extraction of bus route data from the Redbus website. It collects details on government and private bus services, including routes, bus types, prices and ratings Using web scraping and an interactive application, it offers a user-friendly platform to explore and filter bus service information efficiently.
 
-# Key Features
+### Key Features
 - **Automated Web Scraping**: Extracts comprehensive bus route and schedule information from the Redbus website using Selenium.
 - **Structured Data Storage**: Saves the scraped data in a MySQL database for efficient retrieval and management.
 - **Interactive Interface**: Streamlit-based platform allows users to explore and filter bus services by type, route, price, rating, and seat availability.
