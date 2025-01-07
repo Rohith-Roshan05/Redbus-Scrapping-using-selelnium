@@ -1,0 +1,817 @@
+bus_route_name,bus_route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,price,seat_availability
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 1210,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,12:55,08h 10m,21:05,3.8,729,6 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 1378,AC MULTI AXLE,13:46,07h 39m,21:25,2.7,567,2 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 235,Swift Deluxe Non AC Air Bus (2+2),15:00,10h 00m,01:00,2.9,640,2 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 380,Swift Deluxe Non AC Air Bus (2+2),16:15,08h 45m,01:00,3.3,640,29 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 553,Super Express Non AC Seater Air Bus (2+2),16:45,09h 30m,02:15,3.5,473,18 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 789,Super Fast Non AC Seater (2+3),20:00,07h 45m,03:45,3.8,640,21 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 1585,Swift Deluxe Non AC Air Bus (2+2),20:40,09h 30m,06:10,3.5,640,22 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 1586,Swift Deluxe Non AC Air Bus (2+2),21:30,09h 25m,06:55,3.3,640,15 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 2133,Swift Deluxe Non AC Air Bus (2+2),22:10,09h 10m,07:20,4.3,627,3 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 2063,SWIFT-GARUDA A/C SEATER BUS,22:30,07h 30m,06:00,3.9,469,17 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 574,Super Express Non AC Seater Air Bus (2+2),23:00,10h 40m,09:40,3.4,469,27 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 583,Super Express Non AC Seater Air Bus (2+2),23:30,10h 20m,09:50,3.4,627,26 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 56,SWIFT-GARUDA A/C SEATER BUS,23:40,10h 20m,10:00,3.5,700,16 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,MMK Travels,A/C Seater / Sleeper (2+1),22:30,09h 00m,07:30,4.5,599,22 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,DLT BUS,A/C Sleeper (2+1),22:30,09h 00m,07:30,4.2,599,27 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SKS Tours & Travels,A/C Sleeper (2+1),21:15,08h 30m,05:45,4.4,648,24 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,AdFAST LINE BUS,A/C Sleeper (2+1),21:15,09h 00m,06:15,4.5,675,18 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SAAM BUS,VE A/C Sleeper (2+1),21:45,09h 00m,06:45,4.2,949,7 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),21:45,08h 25m,06:10,4.2,950,12 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),22:15,08h 15m,06:30,4.3,647,14 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,AdSuraj Holidays,VE A/C Sleeper (2+1),22:30,09h 00m,07:30,3.7,999,22 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),23:00,10h 00m,09:00,4.1,832,14 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,National travels and logistics,A/C Sleeper (2+1),22:45,08h 15m,07:00,4.2,698,29 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,DA Transports,A/C Sleeper (2+1),21:45,09h 10m,06:55,4,950,14 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,P K Travels,A/C Sleeper (2+1),18:45,11h 45m,06:30,4.1,700,5 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,NS Transports,VE A/C Sleeper (2+1),22:45,08h 45m,07:30,3.9,649,15 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,P K Travels,A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,4.1,899,18 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,National travels and logistics,NON A/C Sleeper (2+1),22:30,07h 45m,06:15,3.6,899,18 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),21:00,08h 30m,05:30,3.5,900,25 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,P K Travels,Non A/C Seater / Sleeper (2+1),18:45,10h 30m,05:15,3.6,700,21 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:00,09h 05m,07:05,3.3,550,27 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,MMK Travels,A/C Sleeper (2+1),23:00,08h 30m,07:30,4.2,849,14 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,A1 Travels,Non A/C Seater / Sleeper (2+1),21:00,09h 45m,06:45,2.9,700,22 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Kalpaka Travels,NON A/C Semi Sleeper (2+2),22:00,08h 30m,06:30,3.2,599,20 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Sam Tourist,NON AC Seater / Sleeper 2+1,22:05,09h 00m,07:05,3.6,930,15 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),22:30,08h 00m,06:30,2.8,700,38 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),21:45,09h 15m,07:00,2.7,890,9 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),03:00,08h 00m,11:00,2.8,699,16 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,PSK Travels,Bharat Benz A/C Sleeper (2+1),03:45,06h 45m,10:30,3.6,700,29 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),22:30,08h 15m,06:45,3.6,700,24 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Suraj Holidays,NON AC Seater / Sleeper 2+1,20:30,09h 30m,06:00,3.2,1999,32 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),02:30,07h 30m,10:00,2.4,2774,36 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SAAM BUS,A/C Seater / Sleeper (2+1),21:45,08h 05m,05:50,4.1,269,41 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SKS Tourist Corporation (REGD),Non A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,3.5,309,12 Seats available
+Bangalore to Kozhikode Bus,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Bharathi Travels,A/C Sleeper (2+1),01:30,08h 30m,10:00,1.8,309,6 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2518,Swift Deluxe Non AC Air Bus (2+2),00:11,04h 43m,04:54,3.6,383,3 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2072,Super Express Non AC Seater Air Bus (2+2),00:30,04h 20m,04:50,2.9,309,7 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 698,Super Fast Non AC Seater (2+3),00:45,04h 54m,05:39,1.4,309,6 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2820,Super Fast Non AC Seater (2+3),00:55,04h 55m,05:50,4,309,1 Seat available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 794,Super Fast Non AC Seater (2+3),06:40,05h 50m,12:30,4,383,20 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2710,Super Fast Non AC Seater (2+3),07:20,05h 46m,13:06,3.1,269,29 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 764,Super Fast Non AC Seater (2+3),09:00,05h 30m,14:30,3.1,309,1 Seat available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 671,Super Fast Non AC Seater (2+3),09:10,04h 51m,14:01,2,255,20 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2571,Super Fast Non AC Seater (2+3),09:30,06h 25m,15:55,3.1,494,9 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 721,Super Fast Non AC Seater (2+3),09:35,05h 35m,15:10,3.1,269,34 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2885,Super Fast Non AC Seater (2+3),09:50,05h 11m,15:01,3.1,383,6 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2567,Super Fast Non AC Seater (2+3),10:05,06h 25m,16:30,3.1,255,18 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 353,Super Fast Non AC Seater (2+3),10:15,05h 45m,16:00,3.1,261,3 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 773,Super Fast Non AC Seater (2+3),10:55,05h 25m,16:20,3.1,269,29 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1927,Low Floor AC Seater 2+2,12:30,05h 49m,18:19,3.1,450,12 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 596,Super Express Non AC Seater Air Bus (2+2),13:40,05h 00m,18:40,3.3,700,22 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2718,Super Fast Non AC Seater (2+3),13:50,06h 10m,20:00,4.9,750,20 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 427,Super Fast Non AC Seater (2+3),13:55,06h 25m,20:20,3.1,800,26 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2896,Low Floor AC Seater 2+2,14:00,06h 15m,20:15,3.3,700,6 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1889,Low Floor AC Seater 2+2,14:30,05h 44m,20:14,4.2,799,23 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2818,Super Fast Non AC Seater (2+3),15:00,05h 30m,20:30,2.2,600,13 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2810,Super Fast Non AC Seater (2+3),15:25,05h 40m,21:05,2.1,630,20 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 720,Super Fast Non AC Seater (2+3),15:40,05h 35m,21:15,2.8,667,2 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2898,Low Floor AC Seater 2+2,16:00,06h 15m,22:15,2.3,650,5 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2874,Super Fast Non AC Seater (2+3),16:20,06h 10m,22:30,3.6,900,2 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 323,Super Fast Non AC Seater (2+3),17:25,05h 15m,22:40,1,599,5 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 556,Super Express Non AC Seater Air Bus (2+2),18:00,04h 50m,22:50,1.6,600,11 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2900,Low Floor AC Seater 2+2,18:00,06h 15m,00:15,3.4,800,16 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1872,Low Floor AC Seater 2+2,18:30,05h 14m,23:44,2.9,650,19 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 46,Swift Deluxe Non AC Air Bus (2+2),20:25,04h 36m,01:01,3.1,700,10 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2393,Low Floor AC Seater 2+2,20:30,05h 14m,01:44,3.9,850,16 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 3090,Super Express Non AC Seater Air Bus (2+2),20:55,04h 00m,00:55,3.1,600,4 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 827,Super Fast Non AC Seater (2+3),21:00,05h 35m,02:35,3.9,899,5 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 531,Super Express Non AC Seater Air Bus (2+2),21:15,03h 55m,01:10,2.7,599,25 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 42,Swift Deluxe Non AC Air Bus (2+2),21:25,04h 40m,02:05,3.1,1045,3 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2954,Super Express Non AC Seater Air Bus (2+2),21:25,05h 10m,02:35,3.1,1000,17 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1212,AC MULTI AXLE,22:00,04h 26m,02:26,1.8,1099,7 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 700,Super Fast Non AC Seater (2+3),22:15,05h 34m,03:49,1.9,513,12 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 666,Super Fast Non AC Seater (2+3),22:25,05h 54m,04:19,4.3,688,10 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 582,Super Express Non AC Seater Air Bus (2+2),22:40,05h 00m,03:40,3.7,640,4 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1704,Super Fast Non AC Seater (2+3),22:40,05h 10m,03:50,2.9,620,2 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1011,Super Fast Non AC Seater (2+3),23:00,05h 30m,04:30,3.1,640,5 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 279,Super Fast Non AC Seater (2+3),23:05,05h 35m,04:40,3,640,6 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 426,Super Express Non AC Seater Air Bus (2+2),23:15,03h 50m,03:05,3.1,640,2 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 407,Super Express Non AC Seater Air Bus (2+2),23:25,04h 30m,03:55,4.2,700,11 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Jacobs Travels,A/C Semi Sleeper (2+2),00:10,03h 50m,04:00,3.2,699,9 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Madhavi Travels,A/C Semi Sleeper (2+2),00:15,06h 00m,06:15,3.6,950,11 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Madhavi Travels,A/C Sleeper (2+1),01:30,04h 45m,06:15,3.6,854,8 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Sheraton Tours and Travels,A/C Seater/Sleeper (2+1),01:45,04h 45m,06:30,4,949,6 Seats available
+Kozhikode to Ernakulam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,A1 Travels,A/C Seater / Sleeper (2+1),20:05,03h 54m,23:59,3.3,999,10 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 788,Super Fast Non AC Seater (2+3),07:00,08h 20m,15:20,4.5,850,11 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 2132,Swift Deluxe Non AC Air Bus (2+2),07:30,08h 20m,15:50,3.2,649,11 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 580,Super Express Non AC Seater Air Bus (2+2),08:05,08h 40m,16:45,3.5,950,3 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 53,SWIFT-GARUDA A/C SEATER BUS,08:30,08h 35m,17:05,4.1,600,10 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 579,Super Express Non AC Seater Air Bus (2+2),10:00,08h 30m,18:30,3.9,999,17 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 55,SWIFT-GARUDA A/C SEATER BUS,12:00,08h 20m,20:20,4.3,899,13 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 805,Super Fast Non AC Seater (2+3),13:30,08h 35m,22:05,4,648,6 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 578,Super Express Non AC Seater Air Bus (2+2),18:00,09h 15m,03:15,3.2,700,15 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,19:05,09h 15m,04:20,3.5,599,19 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 1583,Swift Deluxe Non AC Air Bus (2+2),20:00,09h 15m,05:15,3.5,920,11 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 234,Swift Deluxe Non AC Air Bus (2+2),21:00,09h 40m,06:40,3.9,849,17 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 1584,Swift Deluxe Non AC Air Bus (2+2),21:30,08h 45m,06:15,3.7,749,1 Seat available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 50,Swift Deluxe Non AC Air Bus (2+2),22:00,09h 10m,07:10,3.9,750,31 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,MMK Travels,A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,4.4,890,9 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,DLT BUS,A/C Sleeper (2+1),21:45,08h 45m,06:30,4.3,690,5 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),12:15,09h 30m,21:45,4.3,699,11 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SAAM BUS,VE A/C Sleeper (2+1),20:30,09h 45m,06:15,4.3,700,13 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,P K Travels,A/C Sleeper (2+1),20:00,10h 00m,06:00,4.2,700,27 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SKS Tours & Travels,A/C Sleeper (2+1),21:00,09h 00m,06:00,4.4,1050,23 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,NS Transports,Non A/C Seater / Sleeper (2+1),20:30,10h 00m,06:30,4.1,1079,23 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,National travels and logistics,A/C Sleeper (2+1),21:00,09h 15m,06:15,4.5,269,41 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,NS Transports,VE A/C Sleeper (2+1),20:16,10h 14m,06:30,4,269,50 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,NS Transports,Non A/C Seater / Sleeper (2+1),19:30,09h 00m,04:30,4,269,47 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,MMK Travels,A/C Sleeper (2+1),21:00,08h 30m,05:30,4.4,261,35 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,National travels and logistics,NON A/C Sleeper (2+1),20:45,09h 30m,06:15,3.7,309,22 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Suraj Holidays,VE A/C Sleeper (2+1),22:00,09h 15m,07:15,3.3,261,43 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,A1 Travels,Non A/C Seater / Sleeper (2+1),21:45,08h 45m,06:30,3,309,17 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,FAST LINE BUS,A/C Sleeper (2+1),21:15,09h 00m,06:15,4.1,269,46 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),21:10,10h 05m,07:15,3.3,309,22 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),21:30,09h 00m,06:30,3.4,255,42 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,P K Travels,A/C Seater / Sleeper (2+1),21:45,09h 00m,06:45,3.8,255,46 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,NS Transports,Non A/C Seater / Sleeper (2+1),22:00,08h 00m,06:00,3.9,309,19 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,A1 Travels,A/C Seater / Sleeper (2+1),20:00,09h 30m,05:30,2.7,288,9 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),13:45,09h 25m,23:10,3.4,383,20 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Suraj Holidays,NON AC Seater / Sleeper 2+1,20:15,09h 40m,05:55,2.5,309,29 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,P K Travels,Non A/C Seater / Sleeper (2+1),21:00,09h 00m,06:00,3.9,261,23 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),14:00,09h 30m,23:30,2.8,269,42 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SAAM BUS,A/C Seater / Sleeper (2+1),21:15,09h 00m,06:15,4.2,268,4 Seats available
+Kozhikode to Bangalore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Bharathi Travels,A/C Sleeper (2+1),15:00,08h 45m,23:45,2.8,269,31 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,A1 Travels,NON A/C Semi Sleeper (2+2),01:00,05h 30m,06:30,3.4,309,4 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),01:20,03h 10m,04:30,4.1,231,32 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Ubc travels,A/C Semi Sleeper (2+2),20:40,04h 20m,01:00,3.8,230,44 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Ubc travels,A/C Seater/Sleeper (2+1),20:45,06h 15m,03:00,3.5,494,8 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Kalpaka Travels 1,A/C Sleeper (2+1),20:55,05h 35m,02:30,4.4,383,13 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Sona Travels,Bharat Benz A/C Sleeper (2+1),21:00,05h 45m,02:45,3.2,269,18 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Jacobs Travels,A/C Semi Sleeper (2+2),21:00,05h 30m,02:30,3.2,540,15 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Sheraton Tours and Travels,A/C Seater/Sleeper (2+1),21:00,04h 45m,01:45,5,900,9 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,UFO Bus,A/C Sleeper (2+1),21:15,05h 30m,02:45,4.1,700,11 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Cochin Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),21:15,05h 15m,02:30,4,900,24 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,UFO Bus,A/C Seater / Sleeper (2+1),21:20,05h 20m,02:40,4,600,20 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Madhavi Travels,A/C Sleeper (2+1),21:25,04h 40m,02:05,4.1,800,7 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,UFO Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),21:30,05h 15m,02:45,4.5,700,24 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Cochin Bus,A/C Sleeper (2+1),21:30,05h 00m,02:30,4,667,26 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Madhavi Travels,A/C Semi Sleeper (2+2),21:30,04h 45m,02:15,3.8,630,16 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,SG Travels,Bharat Benz A/C Sleeper (2+1),21:45,04h 45m,02:30,4.1,700,21 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Madhavi Travels,A/C Sleeper (2+1),21:45,05h 15m,03:00,4.3,600,31 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Arya Travels,A/C Sleeper (2+1),21:45,05h 30m,03:15,3.2,649,10 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Kalpaka Travels 1,A/C Semi Sleeper (2+2),22:00,05h 00m,03:00,4.5,799,8 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Madhavi Travels,A/C Semi Sleeper (2+2),22:10,05h 25m,03:35,3.4,899,21 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Madhavi Travels,A/C Semi Sleeper (2+2),22:10,05h 25m,03:35,3.8,649,34 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Sonia Travels,A/C Seater/Sleeper (2+1),22:15,04h 14m,02:29,3.8,899,13 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Madhavi Travels,A/C Sleeper (2+1),23:59,04h 31m,04:30,4.3,630,26 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),01:30,05h 30m,07:00,1.6,600,36 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,CGR Tranz,A/C Semi Sleeper (2+2),20:30,05h 45m,02:15,N/A,499,18 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Blue Bird Travels,A/C Seater Push Back (2+2),21:50,05h 00m,02:50,1.5,599,25 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Greenline kerala,A/C Seater Push Back (2+2),22:01,04h 44m,02:45,2,700,26 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,05h 01m,05:00,2.8,949,6 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:59,04h 31m,04:30,2.4,600,28 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Galaxy Tours,2+1 Air Suspension A/C Seater / Sleeper,01:15,04h 45m,06:00,2.1,599,45 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Galaxy Tours,A/C Semi Sleeper (2+2),01:15,04h 45m,06:00,1.3,900,22 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Adrin Travels,A/C Seater/Sleeper (2+1),21:00,05h 00m,02:00,4.8,900,18 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Arya Travels,A/C Seater/Sleeper (2+1),21:45,05h 30m,03:15,3.2,700,20 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,LIYAS TOURS,Bharat Benz A/C Sleeper (2+1),22:40,05h 00m,03:40,3.7,700,19 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,EMERALD TRAVELS,A/C Sleeper (2+1),23:30,05h 00m,04:30,3.3,599,25 Seats available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:45,04h 15m,03:00,1.7,650,1 Seat available
+Ernakulam to Kozhikode Bus,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,A1 Travels,Bharat Benz A/C Sleeper (2+1),23:45,04h 15m,04:00,2.7,1249,8 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 811,Super Fast Non AC Seater (2+3),02:20,06h 05m,08:25,4,1000,24 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1126,Super Fast Non AC Seater (2+3),03:16,06h 15m,09:31,4.2,1000,4 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1127,Super Fast Non AC Seater (2+3),05:01,06h 15m,11:16,4.2,285,50 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 788,Super Fast Non AC Seater (2+3),07:00,06h 00m,13:00,3.4,273,41 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 2132,Swift Deluxe Non AC Air Bus (2+2),07:30,06h 00m,13:30,4.5,350,18 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 580,Super Express Non AC Seater Air Bus (2+2),08:05,06h 20m,14:25,4.2,452,13 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 53,SWIFT-GARUDA A/C SEATER BUS,08:30,06h 15m,14:45,3.5,419,8 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 791,Super Fast Non AC Seater (2+3),08:45,05h 30m,14:15,3.9,398,7 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 796,Super Fast Non AC Seater (2+3),09:10,05h 45m,14:55,4.5,419,16 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 579,Super Express Non AC Seater Air Bus (2+2),10:00,06h 00m,16:00,3.6,419,8 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 709,Super Fast Non AC Seater (2+3),10:30,06h 00m,16:30,4.1,419,17 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 932,Super Fast Non AC Seater (2+3),11:15,05h 45m,17:00,3.2,319,49 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 55,SWIFT-GARUDA A/C SEATER BUS,12:00,06h 00m,18:00,4.3,356,2 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1076,Super Fast Non AC Seater (2+3),13:00,06h 15m,19:15,3.7,356,5 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 805,Super Fast Non AC Seater (2+3),13:30,06h 15m,19:45,4.8,700,18 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 897,Super Fast Non AC Seater (2+3),15:01,06h 29m,21:30,4.2,599,38 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 708,Super Fast Non AC Seater (2+3),16:00,06h 40m,22:40,3.8,700,31 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 898,Super Fast Non AC Seater (2+3),16:30,05h 45m,22:15,3.8,600,19 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 578,Super Express Non AC Seater Air Bus (2+2),18:00,07h 00m,01:00,3.7,649,20 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,19:05,07h 00m,02:05,3,1290,12 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1583,Swift Deluxe Non AC Air Bus (2+2),20:00,07h 00m,03:00,3.9,849,28 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 234,Swift Deluxe Non AC Air Bus (2+2),21:00,07h 25m,04:25,3.9,949,10 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1584,Swift Deluxe Non AC Air Bus (2+2),21:30,06h 25m,03:55,4.1,999,34 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 50,Swift Deluxe Non AC Air Bus (2+2),22:00,06h 55m,04:55,4.5,850,15 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),12:15,06h 20m,18:35,4.6,1050,30 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,Non A/C Seater / Sleeper (2+1),19:30,07h 00m,02:30,4.2,1079,25 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,A/C Seater / Sleeper (2+1),20:00,08h 00m,04:00,4.4,920,11 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,Non A/C Seater / Sleeper (2+1),20:31,05h 59m,02:30,4.2,723,6 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,National travels and logistics,NON A/C Sleeper (2+1),20:45,07h 15m,04:00,3.9,515,26 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Suraj Holidays,NON AC Seater / Sleeper 2+1,21:00,06h 00m,03:00,3.4,723,18 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,National travels and logistics,A/C Sleeper (2+1),21:00,06h 15m,03:15,3.9,586,13 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SAAM BUS,A/C Seater / Sleeper (2+1),21:15,06h 45m,04:00,4.1,586,8 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,Non A/C Seater / Sleeper (2+1),21:45,06h 15m,04:00,3.6,742,4 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,A/C Seater / Sleeper (2+1),22:30,05h 45m,04:15,4.4,565,2 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),03:30,05h 30m,09:00,2.7,723,11 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),14:00,06h 30m,20:30,3.1,586,9 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,PSK Travels,Bharat Benz A/C Sleeper (2+1),14:35,07h 00m,21:35,3.6,586,6 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Bharathi Travels,A/C Sleeper (2+1),15:00,06h 00m,21:00,3.1,586,5 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,VE A/C Sleeper (2+1),20:15,07h 15m,03:30,4.2,742,12 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SAAM BUS,VE A/C Sleeper (2+1),20:30,07h 30m,04:00,4.1,515,29 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,MMK Travels,A/C Sleeper (2+1),21:00,06h 00m,03:00,4.3,723,15 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tours & Travels,A/C Sleeper (2+1),21:00,07h 00m,04:00,4.2,935,8 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,FAST LINE BUS,A/C Sleeper (2+1),21:15,06h 45m,04:00,4.2,742,6 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),21:30,07h 15m,04:45,3.4,565,6 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Suraj Holidays,VE A/C Sleeper (2+1),22:00,07h 00m,05:00,3.6,515,29 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),23:30,05h 30m,05:00,3,600,12 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,Bharat Benz A/C Sleeper (2+1),04:00,04h 15m,08:15,2.2,941,3 Seats available
+Kozhikode to Mysore Bus,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),13:45,05h 45m,19:30,2.7,750,2 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1586,Swift Deluxe Non AC Air Bus (2+2),00:00,06h 55m,06:55,4,1099,4 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 2133,Swift Deluxe Non AC Air Bus (2+2),00:30,06h 50m,07:20,4,1000,15 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 574,Super Express Non AC Seater Air Bus (2+2),01:30,08h 10m,09:40,4,700,17 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 583,Super Express Non AC Seater Air Bus (2+2),02:00,07h 50m,09:50,4,750,20 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 56,SWIFT-GARUDA A/C SEATER BUS,02:10,07h 50m,10:00,4,1000,14 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 713,Super Fast Non AC Seater (2+3),04:30,06h 20m,10:50,4.8,899,22 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 893,Super Fast Non AC Seater (2+3),06:02,06h 08m,12:10,4.5,650,19 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 894,Super Fast Non AC Seater (2+3),07:01,06h 10m,13:11,3.1,800,10 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 933,Super Fast Non AC Seater (2+3),09:00,06h 10m,15:10,4.6,800,16 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 718,Super Fast Non AC Seater (2+3),10:15,05h 50m,16:05,4.4,800,26 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1164,Super Fast Non AC Seater (2+3),12:02,06h 33m,18:35,3.8,475,17 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 814,Super Fast Non AC Seater (2+3),13:25,05h 50m,19:15,4.1,548,8 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1129,Super Fast Non AC Seater (2+3),14:01,06h 15m,20:16,3.5,548,7 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 567,Super Express Non AC Seater Air Bus (2+2),14:46,05h 59m,20:45,4.4,548,29 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1210,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,15:20,05h 45m,21:05,4,473,23 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1193,Super Fast Non AC Seater (2+3),15:45,05h 50m,21:35,4.6,548,22 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1378,AC MULTI AXLE,16:20,05h 05m,21:25,4,548,22 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 712,Super Fast Non AC Seater (2+3),16:45,05h 45m,22:30,3.4,548,15 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 798,Super Fast Non AC Seater (2+3),17:00,06h 00m,23:00,4.5,524,3 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 235,Swift Deluxe Non AC Air Bus (2+2),17:35,07h 25m,01:00,4,377,17 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 793,Super Fast Non AC Seater (2+3),18:30,05h 30m,00:00,3.4,377,21 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 380,Swift Deluxe Non AC Air Bus (2+2),18:50,06h 10m,01:00,4,524,23 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 553,Super Express Non AC Seater Air Bus (2+2),19:20,06h 55m,02:15,4,700,16 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 51,Swift Deluxe Non AC Air Bus (2+2),21:35,06h 55m,04:30,3.9,950,12 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1077,Super Fast Non AC Seater (2+3),22:30,07h 20m,05:50,3.7,599,23 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 789,Super Fast Non AC Seater (2+3),22:50,04h 55m,03:45,4,950,14 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1585,Swift Deluxe Non AC Air Bus (2+2),23:15,06h 55m,06:10,4.2,599,23 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,SAAM BUS,A/C Seater / Sleeper (2+1),00:20,05h 30m,05:50,4.1,899,18 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,SAAM BUS,VE A/C Sleeper (2+1),00:30,06h 15m,06:45,4.1,700,21 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,MMK Travels,A/C Seater / Sleeper (2+1),00:30,07h 00m,07:30,4.1,950,12 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),00:45,06h 00m,06:45,4.2,950,14 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,National travels and logistics,A/C Sleeper (2+1),01:00,06h 00m,07:00,3.5,900,26 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Suraj Holidays,VE A/C Sleeper (2+1),01:10,06h 20m,07:30,4.2,550,29 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),03:15,05h 45m,09:00,4.5,599,27 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,A1 Travels,Bharat Benz A/C Sleeper (2+1),17:30,06h 00m,23:30,4,930,15 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Suraj Holidays,NON AC Seater / Sleeper 2+1,23:55,06h 05m,06:00,4.2,648,35 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),23:57,06h 33m,06:30,4.2,930,10 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,FAST LINE BUS,A/C Sleeper (2+1),23:59,06h 16m,06:15,4.2,899,21 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),23:59,06h 11m,06:10,4.2,849,22 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,SKS Tours & Travels,A/C Sleeper (2+1),23:59,05h 41m,05:40,3.6,890,14 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,National travels and logistics,NON A/C Sleeper (2+1),00:40,05h 35m,06:15,3.5,899,21 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Sam Tourist,NON AC Seater / Sleeper 2+1,00:45,06h 20m,07:05,3.7,699,21 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),16:30,06h 15m,22:45,2,699,17 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,A1 Travels,Non A/C Seater / Sleeper (2+1),23:40,07h 05m,06:45,1.4,699,20 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),23:45,06h 45m,06:30,1.4,849,40 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Bharathi Travels,A/C Sleeper (2+1),05:00,05h 00m,10:00,3.1,650,21 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),05:30,04h 30m,10:00,3.8,2999,36 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,PSK Travels,Bharat Benz A/C Sleeper (2+1),06:00,04h 30m,10:30,3.6,4400,36 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),23:55,05h 35m,05:30,3.4,1999,32 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,NS Transports,VE A/C Sleeper (2+1),23:59,07h 31m,07:30,4.2,285,41 Seats available
+Mysore to Kozhikode Bus,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),05:20,05h 40m,11:00,2,285,41 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 103,Swift Deluxe Non AC Air Bus (2+2),09:00,09h 00m,18:00,4,285,42 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 136,Swift Deluxe Non AC Air Bus (2+2),20:30,07h 40m,04:10,3.5,494,6 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 101,Swift Deluxe Non AC Air Bus (2+2),21:15,07h 55m,05:10,4.3,285,36 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 98,Swift Deluxe Non AC Air Bus (2+2),21:55,07h 55m,05:50,3.6,356,2 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 1767,Super Express Non AC Seater Air Bus (2+2),23:10,07h 55m,07:05,3.7,419,2 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,NS Transports,A/C Sleeper (2+1),22:15,07h 30m,05:45,4.4,419,28 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,MMK Travels,VE A/C Seater / Sleeper (2+1),22:15,07h 15m,05:30,4.3,473,14 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,Volvo A/C Semi Sleeper (2+2),22:45,06h 00m,04:45,4.3,319,44 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,NS Transports,NON A/C Sleeper (2+1),22:45,06h 35m,05:20,4.2,419,17 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Ashoka Travel and Logistics,A/C Sleeper (2+1),21:45,07h 45m,05:30,4.2,649,7 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,A/C Sleeper (2+1),22:00,07h 25m,05:25,4.2,600,17 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Kalpaka Travels,A/C Sleeper (2+1),22:10,06h 50m,05:00,4.1,700,21 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Sugama Tourist,A/C Sleeper (2+1),22:00,07h 30m,05:30,4,600,28 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,NON A/C Sleeper (2+1),22:30,06h 15m,04:45,4.1,849,28 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Ashoka Travel and Logistics,NON A/C Semi Sleeper (2+2),09:00,08h 30m,17:30,4,675,23 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,NS Transports,NON A/C Semi Sleeper / Sleeper (2+1),22:00,08h 00m,06:00,3.9,700,5 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,National travels and logistics,Non A/C Seater / Sleeper (2+1),22:40,07h 05m,05:45,3.8,649,18 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,P K Travels,NON A/C Semi Sleeper (2+2),21:45,07h 15m,05:00,3.8,599,25 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,A/C Sleeper (2+1),21:30,07h 45m,05:15,4.6,600,24 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Kalpaka Travels,NON A/C Seater/ Sleeper (2+1),21:45,07h 35m,05:20,3.9,899,21 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,P K Travels,A/C Sleeper (2+1),22:15,07h 15m,05:30,3.4,949,11 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Kalpaka Travels,NON A/C Seater/ Sleeper (2+1),22:00,07h 00m,05:00,3.6,930,10 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Ashoka Travel and Logistics,NON A/C Semi Sleeper (2+2),22:00,07h 30m,05:30,2.8,426,13 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Ashoka Travel and Logistics,A/C Semi Sleeper (2+2),22:30,07h 15m,05:45,3.6,586,13 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Arya Travels,A/C Sleeper (2+1),19:45,09h 25m,05:10,3.6,548,5 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Kalpaka Travels,NON A/C Seater/ Sleeper (2+1),22:00,08h 10m,06:10,3.9,589,3 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Arya Travels,A/C Sleeper (2+1),21:40,07h 50m,05:30,2.4,548,6 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,National travels and logistics,Bharat Benz A/C Sleeper (2+1),22:30,07h 00m,05:30,3.8,548,9 Seats available
+Bangalore to Kannur (Kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Arya Travels,NON A/C Semi Sleeper (2+2),21:55,07h 05m,05:00,3.4,799,27 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 315,Super Fast Non AC Seater (2+3),00:40,03h 15m,03:55,3.1,700,15 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2820,Super Fast Non AC Seater (2+3),00:55,02h 55m,03:50,3.1,999,10 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1850,Low Floor AC Seater 2+2,02:30,03h 05m,05:35,2.8,700,15 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2370,Low Floor AC Seater 2+2,04:30,03h 20m,07:50,3.1,799,27 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2392,Low Floor AC Seater 2+2,05:30,03h 20m,08:50,3.5,850,15 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 794,Super Fast Non AC Seater (2+3),06:40,03h 40m,10:20,3.1,950,3 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 3218,Swift Deluxe Non AC Air Bus (2+2),07:05,03h 25m,10:30,3.1,899,13 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2710,Super Fast Non AC Seater (2+3),07:20,03h 45m,11:05,3.1,799,28 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1992,Super Fast Non AC Seater (2+3),07:35,03h 15m,10:50,3.1,550,10 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 3514,Super Fast Non AC Seater (2+3),07:50,03h 35m,11:25,3.1,999,10 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2006,Super Fast Non AC Seater (2+3),08:15,03h 50m,12:05,3.1,999,18 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 761,Super Fast Non AC Seater (2+3),08:45,03h 35m,12:20,3.1,700,6 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 764,Super Fast Non AC Seater (2+3),09:00,03h 30m,12:30,3.1,850,15 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 3014,Super Fast Non AC Seater (2+3),09:10,04h 05m,13:15,3.1,799,29 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2571,Super Fast Non AC Seater (2+3),09:30,04h 00m,13:30,3.1,849,15 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 721,Super Fast Non AC Seater (2+3),09:35,03h 30m,13:05,3.1,930,11 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 813,Super Fast Non AC Seater (2+3),09:40,03h 25m,13:05,3.1,1440,5 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2567,Super Fast Non AC Seater (2+3),10:05,04h 00m,14:05,3.1,1700,5 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 848,Super Fast Non AC Seater (2+3),10:10,03h 35m,13:45,3.1,700,6 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 353,Super Fast Non AC Seater (2+3),10:15,03h 45m,14:00,3.1,930,11 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 822,Super Fast Non AC Seater (2+3),10:45,03h 35m,14:20,3.1,999,34 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 773,Super Fast Non AC Seater (2+3),10:55,03h 15m,14:10,3.1,890,9 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1118,Super Fast Non AC Seater (2+3),11:50,03h 30m,15:20,3.1,890,9 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1927,Low Floor AC Seater 2+2,12:30,03h 20m,15:50,3.1,699,11 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 991,Super Fast Non AC Seater (2+3),12:50,04h 15m,17:05,3.1,699,18 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 820,Super Fast Non AC Seater (2+3),12:55,03h 35m,16:30,3.1,1050,23 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 596,Super Express Non AC Seater Air Bus (2+2),13:40,03h 20m,17:00,3.1,650,21 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 427,Super Fast Non AC Seater (2+3),13:55,04h 00m,17:55,3.1,849,20 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2896,Low Floor AC Seater 2+2,14:00,03h 20m,17:20,3.1,690,10 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1889,Low Floor AC Seater 2+2,14:30,03h 20m,17:50,3.1,1199,23 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 993,Super Fast Non AC Seater (2+3),14:50,04h 10m,19:00,3.1,690,8 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2818,Super Fast Non AC Seater (2+3),15:00,03h 30m,18:30,3.1,253,8 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2810,Super Fast Non AC Seater (2+3),15:25,03h 35m,19:00,3.1,181,42 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 720,Super Fast Non AC Seater (2+3),15:40,03h 55m,19:35,3.1,181,47 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 758,Super Fast Non AC Seater (2+3),15:45,03h 35m,19:20,3.1,181,48 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2898,Low Floor AC Seater 2+2,16:00,03h 20m,19:20,3.1,253,18 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 689,Super Fast Non AC Seater (2+3),16:15,03h 35m,19:50,3.1,216,12 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 726,Super Fast Non AC Seater (2+3),17:00,03h 20m,20:20,3.1,216,4 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2716,Super Fast Non AC Seater (2+3),17:15,03h 30m,20:45,3.1,253,3 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 323,Super Fast Non AC Seater (2+3),17:25,03h 20m,20:45,3.1,216,3 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2390,Low Floor AC Seater 2+2,17:30,03h 30m,21:00,3.1,253,9 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2900,Low Floor AC Seater 2+2,18:00,03h 20m,21:20,3.1,216,10 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 556,Super Express Non AC Seater Air Bus (2+2),18:00,02h 50m,20:50,3.1,216,7 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1872,Low Floor AC Seater 2+2,18:30,03h 05m,21:35,1.7,216,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 48,Swift Deluxe Non AC Air Bus (2+2),19:00,02h 35m,21:35,3.1,253,24 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 814,Super Fast Non AC Seater (2+3),19:15,03h 30m,22:45,3.1,216,3 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2984,Super Fast Non AC Seater (2+3),19:20,03h 40m,23:00,3.1,181,25 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1956,Super Fast Non AC Seater (2+3),20:00,03h 30m,23:30,3.1,181,28 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 46,Swift Deluxe Non AC Air Bus (2+2),20:25,02h 35m,23:00,3.7,181,26 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 424,Super Fast Non AC Seater (2+3),20:30,03h 45m,00:15,3.1,216,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 3398,Super Fast Non AC Seater (2+3),20:30,03h 30m,00:00,3.1,253,17 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2393,Low Floor AC Seater 2+2,20:30,03h 05m,23:35,3.7,181,39 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1506,Super Fast Non AC Seater (2+3),20:30,03h 45m,00:15,3.1,216,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 567,Super Express Non AC Seater Air Bus (2+2),20:45,03h 45m,00:30,3.1,216,3 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 3090,Super Express Non AC Seater Air Bus (2+2),20:55,02h 35m,23:30,3.1,340,8 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 827,Super Fast Non AC Seater (2+3),21:00,03h 30m,00:30,3.1,181,37 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 3294,Super Fast Non AC Seater (2+3),21:00,04h 00m,01:00,3.1,253,6 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1210,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,21:05,03h 15m,00:20,3.1,216,5 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 815,Super Fast Non AC Seater (2+3),21:10,03h 45m,00:55,3.1,181,16 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 531,Super Express Non AC Seater Air Bus (2+2),21:15,02h 25m,23:40,3.1,201,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1378,AC MULTI AXLE,21:25,03h 20m,00:45,3.1,216,8 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 42,Swift Deluxe Non AC Air Bus (2+2),21:25,02h 40m,00:05,3.1,181,46 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2954,Super Express Non AC Seater Air Bus (2+2),21:25,03h 30m,00:55,3.1,174,2 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1880,Low Floor AC Seater 2+2,21:30,03h 05m,00:35,1.7,181,28 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 344,Super Fast Non AC Seater (2+3),21:45,03h 20m,01:05,3.1,181,16 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 44,Swift Deluxe Non AC Air Bus (2+2),21:50,02h 50m,00:40,3.1,181,25 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1212,AC MULTI AXLE,22:00,02h 30m,00:30,3.1,253,8 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 560,Super Express Non AC Seater Air Bus (2+2),22:10,03h 05m,01:15,3.1,216,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 409,Super Express Non AC Seater Air Bus (2+2),22:15,02h 30m,00:45,3.1,181,28 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 666,Super Fast Non AC Seater (2+3),22:25,03h 30m,01:55,3.1,181,16 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2724,Super Fast Non AC Seater (2+3),22:30,03h 30m,02:00,3.1,216,2 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1200,Super Express Non AC Seater Air Bus (2+2),22:35,03h 15m,01:50,3.1,762,10 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 582,Super Express Non AC Seater Air Bus (2+2),22:40,03h 05m,01:45,3.1,950,13 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 781,Super Fast Non AC Seater (2+3),22:45,03h 25m,02:10,3.1,800,27 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 586,Super Express Non AC Seater Air Bus (2+2),22:50,03h 15m,02:05,3.1,850,21 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 128,Super Deluxe Non AC Seater Air Bus (2+2),22:55,02h 40m,01:35,3.1,700,39 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1011,Super Fast Non AC Seater (2+3),23:00,03h 25m,02:25,3.1,1000,21 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 798,Super Fast Non AC Seater (2+3),23:00,03h 10m,02:10,3.1,799,23 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 279,Super Fast Non AC Seater (2+3),23:05,03h 45m,02:50,3.1,700,41 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 314,Super Fast Non AC Seater (2+3),23:15,03h 30m,02:45,3.1,630,26 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2784,Super Express Non AC Seater Air Bus (2+2),23:20,03h 00m,02:20,3.1,667,2 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 673,Super Fast Non AC Seater (2+3),23:25,03h 15m,02:40,3.1,900,2 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 3496,Super Express Non AC Seater Air Bus (2+2),23:28,04h 15m,03:43,3.1,600,6 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2872,Super Express Non AC Seater Air Bus (2+2),23:45,02h 20m,02:05,3.1,899,23 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1963,Super Fast Non AC Seater (2+3),23:45,03h 20m,03:05,3.1,650,5 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 345,Super Fast Non AC Seater (2+3),23:55,03h 40m,03:35,3.1,599,5 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 505,Super Express Non AC Seater Air Bus (2+2),23:59,02h 16m,02:15,3.1,599,25 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Madhavi Travels,A/C Semi Sleeper (2+2),00:15,03h 45m,04:00,3.9,800,16 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Madhavi Travels,A/C Semi Sleeper (2+2),00:45,03h 20m,04:05,3.9,650,28 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),01:00,02h 30m,03:30,3,565,4 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Madhavi Travels,A/C Sleeper (2+1),01:30,02h 20m,03:50,3.9,586,19 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Sheraton Tours and Travels,A/C Seater/Sleeper (2+1),01:45,02h 45m,04:30,4.4,742,18 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Ubc travels,A/C Seater/Sleeper (2+1),01:45,02h 00m,03:45,3.7,904,7 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Sona Travels,Bharat Benz A/C Sleeper (2+1),02:00,03h 30m,05:30,3.2,477,44 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,BLM Transports,A/C Sleeper (2+1),22:00,03h 00m,01:00,3.9,502,46 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),22:10,02h 20m,00:30,3,586,30 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Madhavi Travels,A/C Sleeper (2+1),22:20,02h 50m,01:10,3.9,723,18 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:45,02h 25m,01:10,3,515,17 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,02h 25m,01:55,3.9,935,9 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,A1 Travels,Bharat Benz A/C Sleeper (2+1),23:30,02h 00m,01:30,3.3,586,4 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,UFO Bus,A/C Seater / Sleeper (2+1),23:40,03h 50m,03:30,4.1,742,13 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Madhavi Travels,A/C Sleeper (2+1),23:40,03h 10m,02:50,3.9,723,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,UFO Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:55,03h 35m,03:30,4.1,565,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,UFO Bus,A/C Sleeper (2+1),23:55,03h 35m,03:30,4.1,565,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Cochin Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:59,03h 31m,03:30,4,586,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Arya Travels,A/C Sleeper (2+1),23:59,03h 16m,03:15,3.2,586,2 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Kalpaka Travels 1,A/C Sleeper (2+1),23:59,03h 46m,03:45,4,742,6 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,SG Travels,Bharat Benz A/C Sleeper (2+1),23:59,03h 31m,03:30,4.7,515,14 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Kalpaka Travels 1,A/C Semi Sleeper (2+2),23:59,03h 41m,03:40,4,586,7 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Cochin Bus,A/C Sleeper (2+1),23:59,03h 31m,03:30,4,931,9 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Cochin Bus,Bharat Benz A/C Semi Sleeper (2+2),23:59,03h 31m,03:30,4,949,5 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KP Travels,A/C Seater (2+2),21:15,02h 50m,00:05,2.4,600,21 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Galaxy Tours,2+1 Air Suspension A/C Seater / Sleeper,21:45,03h 00m,00:45,2.7,700,23 Seats available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Galaxy Tours,A/C Semi Sleeper (2+2),21:45,01h 59m,23:44,2.7,650,1 Seat available
+Kozhikode to Thrissur Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,CGR Tranz,A/C Semi Sleeper (2+2),23:59,03h 01m,03:00,N/A,700,20 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 1210,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,12:55,06h 20m,19:15,4.6,900,18 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 1378,AC MULTI AXLE,13:46,05h 24m,19:10,3.4,900,22 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 380,Swift Deluxe Non AC Air Bus (2+2),16:15,06h 35m,22:50,4,700,19 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 553,Super Express Non AC Seater Air Bus (2+2),16:45,07h 20m,00:05,4,649,27 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 51,Swift Deluxe Non AC Air Bus (2+2),19:00,07h 40m,02:40,4.7,800,22 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 789,Super Fast Non AC Seater (2+3),20:00,06h 05m,02:05,4,1199,6 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 1585,Swift Deluxe Non AC Air Bus (2+2),20:40,07h 40m,04:20,4,1000,24 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 1586,Swift Deluxe Non AC Air Bus (2+2),21:30,07h 40m,05:10,3.5,800,27 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 2133,Swift Deluxe Non AC Air Bus (2+2),22:10,07h 20m,05:30,4,568,25 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 2063,SWIFT-GARUDA A/C SEATER BUS,22:30,05h 45m,04:15,4.4,548,16 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 574,Super Express Non AC Seater Air Bus (2+2),23:00,08h 30m,07:30,3.5,579,18 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 583,Super Express Non AC Seater Air Bus (2+2),23:30,08h 10m,07:40,3.9,568,24 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,KSRTC (Kerala) - 56,SWIFT-GARUDA A/C SEATER BUS,23:40,08h 10m,07:50,4.5,949,9 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,MMK Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,4.4,900,15 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DLT BUS,A/C Sleeper (2+1),22:30,07h 00m,05:30,4.1,850,11 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),23:00,08h 30m,07:30,4.2,739,10 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DLT BUS,A/C Sleeper (2+1),22:30,06h 50m,05:20,4.4,949,13 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,MMK Travels,A/C Seater / Sleeper (2+1),22:30,07h 15m,05:45,4.3,900,2 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Suraj Holidays,VE A/C Sleeper (2+1),22:30,07h 45m,06:15,4,749,9 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),23:00,08h 20m,07:20,4.1,849,27 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,Non A/C Seater / Sleeper (2+1),21:00,08h 00m,05:00,3.4,899,14 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:00,07h 25m,05:25,3.8,700,11 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Suraj Holidays,VE A/C Sleeper (2+1),22:30,07h 45m,06:15,3.8,799,15 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,A/C Sleeper (2+1),21:45,06h 30m,04:15,3.9,800,15 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,P K Travels,A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,5,800,19 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,FAST LINE BUS,A/C Sleeper (2+1),21:15,06h 45m,04:00,3.5,699,25 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SKS Tourist Corporation (REGD),Non A/C Seater / Sleeper (2+1),21:15,06h 45m,04:00,3.1,699,32 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,2.1,700,21 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),03:00,05h 40m,08:40,1.9,700,25 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,NS Transports,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,4.2,599,19 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,NS Transports,Non A/C Seater / Sleeper (2+1),22:30,06h 31m,05:01,4.2,700,30 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SAAM BUS,VE A/C Sleeper (2+1),21:45,06h 25m,04:10,4.1,700,25 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,A/C Sleeper (2+1),21:45,06h 35m,04:20,3.9,699,11 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SKS Tourist Corporation (REGD),Non A/C Seater / Sleeper (2+1),21:15,06h 46m,04:01,3.7,795,8 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),21:00,07h 20m,04:20,3.7,690,21 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,PSK Travels,Bharat Benz A/C Sleeper (2+1),03:45,04h 25m,08:10,3.6,332,39 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,PSK Travels,Bharat Benz A/C Sleeper (2+1),03:45,04h 35m,08:20,3.6,475,10 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),21:00,07h 45m,04:45,3.4,332,48 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),03:00,05h 41m,08:41,3,475,19 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),02:30,05h 15m,07:45,1.1,381,1 Seat available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,A/C Semi Sleeper (2+2),22:30,08h 00m,06:30,3.3,475,11 Seats available
+Bangalore to Kalpetta (kerala) Bus,https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Bharathi Travels,A/C Sleeper (2+1),01:30,08h 00m,09:30,3.1,332,41 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1850,Low Floor AC Seater 2+2,02:30,10h 20m,12:50,2.9,360,19 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2392,Low Floor AC Seater 2+2,05:30,10h 40m,16:10,2.9,606,11 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 794,Super Fast Non AC Seater (2+3),06:40,12h 00m,18:40,2.9,475,17 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 3014,Super Fast Non AC Seater (2+3),09:10,11h 50m,21:00,2.9,332,41 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 671,Super Fast Non AC Seater (2+3),09:10,10h 35m,19:45,2,381,3 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 721,Super Fast Non AC Seater (2+3),09:35,11h 35m,21:10,2.9,341,18 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 773,Super Fast Non AC Seater (2+3),10:55,11h 05m,22:00,2.9,381,8 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1118,Super Fast Non AC Seater (2+3),11:50,10h 55m,22:45,2.9,332,29 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1927,Low Floor AC Seater 2+2,12:30,10h 30m,23:00,2.9,475,3 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 596,Super Express Non AC Seater Air Bus (2+2),13:40,10h 15m,23:55,2.9,332,29 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 427,Super Fast Non AC Seater (2+3),13:55,12h 00m,01:55,2.9,750,2 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1889,Low Floor AC Seater 2+2,14:30,10h 30m,01:00,2.9,750,2 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 323,Super Fast Non AC Seater (2+3),17:25,10h 30m,03:55,1.8,800,11 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2390,Low Floor AC Seater 2+2,17:30,10h 15m,03:45,2.9,700,13 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 556,Super Express Non AC Seater Air Bus (2+2),18:00,08h 55m,02:55,2.4,548,16 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1872,Low Floor AC Seater 2+2,18:30,09h 55m,04:25,3.6,568,18 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 48,Swift Deluxe Non AC Air Bus (2+2),19:00,08h 40m,03:40,3.2,568,13 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2984,Super Fast Non AC Seater (2+3),19:20,10h 50m,06:10,2.9,579,2 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 46,Swift Deluxe Non AC Air Bus (2+2),20:25,08h 40m,05:05,2.7,1100,14 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2393,Low Floor AC Seater 2+2,20:30,10h 05m,06:35,2.9,699,7 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 3090,Super Express Non AC Seater Air Bus (2+2),20:55,08h 00m,04:55,2.9,900,19 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 827,Super Fast Non AC Seater (2+3),21:00,11h 35m,08:35,2.9,739,9 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1210,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,21:05,09h 00m,06:05,2.9,800,24 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 531,Super Express Non AC Seater Air Bus (2+2),21:15,07h 50m,05:05,3.7,900,9 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2954,Super Express Non AC Seater Air Bus (2+2),21:25,09h 45m,07:10,2.9,1099,3 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1378,AC MULTI AXLE,21:25,09h 50m,07:15,2.5,899,9 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 42,Swift Deluxe Non AC Air Bus (2+2),21:25,08h 45m,06:10,2.7,749,21 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 44,Swift Deluxe Non AC Air Bus (2+2),21:50,08h 55m,06:45,4,799,2 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1212,AC MULTI AXLE,22:00,08h 20m,06:20,1.6,900,22 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1200,Super Express Non AC Seater Air Bus (2+2),22:35,09h 50m,08:25,2.9,845,15 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 279,Super Fast Non AC Seater (2+3),23:05,10h 45m,09:50,2,649,15 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 426,Super Express Non AC Seater Air Bus (2+2),23:15,08h 35m,07:50,2.9,799,22 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 505,Super Express Non AC Seater Air Bus (2+2),23:59,07h 21m,07:20,3.8,800,11 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,A/C Seater / Sleeper (2+1),20:05,09h 25m,05:30,3.8,800,14 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Madhavi Travels,A/C Sleeper (2+1),22:20,08h 40m,07:00,3.2,790,16 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:15,07h 30m,05:45,2.4,800,22 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Galaxy Tours,2+1 Air Suspension A/C Seater / Sleeper,21:45,08h 45m,06:30,2.9,749,17 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,Bharat Benz A/C Sleeper (2+1),23:30,08h 30m,08:00,2.9,899,16 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,08h 00m,07:30,3.1,332,42 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:45,07h 55m,06:40,1.8,332,39 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,NON A/C Semi Sleeper (2+2),21:00,09h 00m,06:00,3.3,386,9 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),01:00,09h 05m,10:05,1.6,341,35 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,07h 30m,06:00,3,360,25 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Galaxy Tours,A/C Semi Sleeper (2+2),21:45,08h 45m,06:30,3.5,381,19 Seats available
+Kozhikode to Thiruvananthapuram Bus,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KP Travels,A/C Seater (2+2),21:15,08h 00m,05:15,2.6,370,9 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 788,Super Fast Non AC Seater (2+3),09:05,06h 15m,15:20,3.8,381,12 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 2132,Swift Deluxe Non AC Air Bus (2+2),09:35,06h 15m,15:50,4.3,475,16 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 580,Super Express Non AC Seater Air Bus (2+2),10:30,06h 15m,16:45,3.1,606,7 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 53,SWIFT-GARUDA A/C SEATER BUS,10:55,06h 10m,17:05,3.6,381,4 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 579,Super Express Non AC Seater Air Bus (2+2),12:20,06h 10m,18:30,4.5,381,17 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 55,SWIFT-GARUDA A/C SEATER BUS,14:20,06h 00m,20:20,4,355,30 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 805,Super Fast Non AC Seater (2+3),15:50,06h 15m,22:05,4.5,350,4 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 578,Super Express Non AC Seater Air Bus (2+2),20:00,07h 15m,03:15,2,475,19 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,20:55,07h 25m,04:20,2.9,332,41 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 1583,Swift Deluxe Non AC Air Bus (2+2),21:50,07h 25m,05:15,3.5,332,43 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 1584,Swift Deluxe Non AC Air Bus (2+2),23:05,07h 10m,06:15,2.8,332,46 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,KSRTC (Kerala) - 50,Swift Deluxe Non AC Air Bus (2+2),23:55,07h 15m,07:10,4.2,381,8 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,MMK Travels,A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,4.7,332,23 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),13:55,07h 50m,21:45,4.4,381,1 Seat available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,DLT BUS,A/C Sleeper (2+1),23:45,06h 45m,06:30,4.3,475,2 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,MMK Travels,A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,4.8,381,1 Seat available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,A1 Travels,Non A/C Seater / Sleeper (2+1),23:10,07h 20m,06:30,3.2,332,21 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),13:57,07h 48m,21:45,3.9,700,26 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,DLT BUS,A/C Sleeper (2+1),23:59,06h 31m,06:30,4.4,700,19 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Suraj Holidays,VE A/C Sleeper (2+1),23:58,07h 17m,07:15,3.4,700,31 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:30,07h 45m,07:15,3.2,1100,16 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SKS Tourist Corporation (REGD),Non A/C Seater / Sleeper (2+1),23:15,06h 15m,05:30,3.6,800,23 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),16:45,06h 45m,23:30,3.2,900,26 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),23:50,06h 40m,06:30,2.4,750,24 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,A1 Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,2.8,1000,24 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Suraj Holidays,VE A/C Sleeper (2+1),23:59,07h 16m,07:15,3,700,31 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SKS Tourist Corporation (REGD),Non A/C Seater / Sleeper (2+1),23:16,06h 14m,05:30,2.9,181,47 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,PSK Travels,Bharat Benz A/C Sleeper (2+1),17:35,06h 00m,23:35,2.7,181,43 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:45,06h 45m,06:30,2.8,181,50 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),23:55,06h 35m,06:30,2,216,24 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,NS Transports,Non A/C Seater / Sleeper (2+1),23:35,06h 25m,06:00,4.2,181,48 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,NS Transports,Non A/C Seater / Sleeper (2+1),23:36,06h 24m,06:00,4.2,216,18 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,FAST LINE BUS,A/C Sleeper (2+1),23:15,07h 00m,06:15,4.2,174,35 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,P K Travels,A/C Seater / Sleeper (2+1),23:50,06h 55m,06:45,4.1,181,43 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SAAM BUS,VE A/C Sleeper (2+1),23:05,06h 55m,06:00,4.1,181,44 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SAAM BUS,VE A/C Sleeper (2+1),23:06,06h 54m,06:00,4.1,216,8 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),15:50,07h 20m,23:10,3.2,166,49 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),15:50,07h 20m,23:10,3,174,39 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),16:30,07h 00m,23:30,2.9,253,17 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,PSK Travels,Bharat Benz A/C Sleeper (2+1),17:05,06h 30m,23:35,2.7,216,16 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Bharathi Travels,A/C Sleeper (2+1),17:20,06h 25m,23:45,3.6,216,25 Seats available
+Kalpetta (kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Bharathi Travels,A/C Sleeper (2+1),17:00,06h 45m,23:45,3.1,174,43 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2072,Super Express Non AC Seater Air Bus (2+2),00:30,05h 50m,06:20,2.4,216,21 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 525,Super Express Non AC Seater Air Bus (2+2),00:35,04h 45m,05:20,3.2,181,48 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 315,Super Fast Non AC Seater (2+3),00:40,06h 30m,07:10,2.4,181,48 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2392,Low Floor AC Seater 2+2,05:30,07h 05m,12:35,2.4,340,20 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 3218,Swift Deluxe Non AC Air Bus (2+2),07:05,07h 20m,14:25,2.4,201,30 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 3514,Super Fast Non AC Seater (2+3),07:50,07h 20m,15:10,2.4,253,16 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2006,Super Fast Non AC Seater (2+3),08:15,07h 40m,15:55,2.4,201,25 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 761,Super Fast Non AC Seater (2+3),08:45,07h 10m,15:55,2.4,216,13 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 3014,Super Fast Non AC Seater (2+3),09:10,08h 00m,17:10,2.4,201,9 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 848,Super Fast Non AC Seater (2+3),10:10,07h 10m,17:20,2.4,201,8 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1118,Super Fast Non AC Seater (2+3),11:50,07h 10m,19:00,2.4,216,24 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 820,Super Fast Non AC Seater (2+3),12:55,07h 15m,20:10,2.4,181,44 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 758,Super Fast Non AC Seater (2+3),15:45,07h 00m,22:45,2.4,181,14 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 726,Super Fast Non AC Seater (2+3),17:00,07h 05m,00:05,1.6,253,24 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2390,Low Floor AC Seater 2+2,17:30,06h 55m,00:25,2.4,340,7 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 48,Swift Deluxe Non AC Air Bus (2+2),19:00,05h 40m,00:40,1.7,201,9 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2984,Super Fast Non AC Seater (2+3),19:20,07h 00m,02:20,2.4,216,3 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1506,Super Fast Non AC Seater (2+3),20:30,07h 30m,04:00,2.4,181,46 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 567,Super Express Non AC Seater Air Bus (2+2),20:45,07h 20m,04:05,2.4,216,30 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 3294,Super Fast Non AC Seater (2+3),21:00,07h 00m,04:00,2.4,216,18 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1210,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,21:05,05h 45m,02:50,2.4,181,26 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1378,AC MULTI AXLE,21:25,06h 30m,03:55,2.4,216,4 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1880,Low Floor AC Seater 2+2,21:30,06h 35m,04:05,1.8,253,28 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 344,Super Fast Non AC Seater (2+3),21:45,06h 40m,04:25,1.7,201,27 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 44,Swift Deluxe Non AC Air Bus (2+2),21:50,05h 55m,03:45,3.1,181,42 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 560,Super Express Non AC Seater Air Bus (2+2),22:10,06h 20m,04:30,3.3,174,26 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1200,Super Express Non AC Seater Air Bus (2+2),22:35,06h 25m,05:00,2.4,499,15 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1704,Super Fast Non AC Seater (2+3),22:40,07h 01m,05:41,2.4,700,23 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 582,Super Express Non AC Seater Air Bus (2+2),22:40,06h 35m,05:15,2.4,1100,16 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 128,Super Deluxe Non AC Seater Air Bus (2+2),22:55,05h 15m,04:10,1,700,24 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2784,Super Express Non AC Seater Air Bus (2+2),23:20,07h 10m,06:30,2.4,900,45 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 673,Super Fast Non AC Seater (2+3),23:25,06h 30m,05:55,2.5,630,26 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1963,Super Fast Non AC Seater (2+3),23:45,06h 15m,06:00,2.4,649,10 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 505,Super Express Non AC Seater Air Bus (2+2),23:59,04h 46m,04:45,1.9,667,26 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Sonia Travels,A/C Seater/Sleeper (2+1),23:30,07h 08m,06:38,4.7,800,28 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),22:10,05h 20m,03:30,4.2,630,34 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Ubc travels,A/C Seater/Sleeper (2+1),01:45,06h 15m,08:00,3.9,900,9 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,05h 20m,04:50,3.9,799,18 Seats available
+Kozhikode to Kottayam Bus,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Madhavi Travels,A/C Sleeper (2+1),23:40,07h 00m,06:40,3.9,1249,10 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 102,Swift Deluxe Non AC Air Bus (2+2),07:30,08h 50m,16:20,4.4,599,25 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 100,Swift Deluxe Non AC Air Bus (2+2),19:00,08h 05m,03:05,3.7,700,30 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 1766,Super Express Non AC Seater Air Bus (2+2),20:15,08h 10m,04:25,4.5,899,13 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 133,Swift Deluxe Non AC Air Bus (2+2),21:30,07h 50m,05:20,3.7,1000,6 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 99,Swift Deluxe Non AC Air Bus (2+2),21:30,08h 15m,05:45,4.1,600,36 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,NS Transports,A/C Sleeper (2+1),21:15,08h 15m,05:30,4.6,599,45 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Ashoka Travel and Logistics,A/C Sleeper (2+1),21:15,08h 15m,05:30,4.4,899,21 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,NS Transports,NON A/C Sleeper (2+1),21:45,08h 00m,05:45,4.4,649,34 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,MMK Travels,VE A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,4.3,600,28 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,NS Transports,NON A/C Semi Sleeper / Sleeper (2+1),20:30,08h 50m,05:20,4.1,1000,24 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Sugama Tourist,A/C Sleeper (2+1),22:00,07h 30m,05:30,4,700,34 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Ashoka Travel and Logistics,NON A/C Semi Sleeper (2+2),08:00,09h 30m,17:30,4,650,1 Seat available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,Volvo A/C Semi Sleeper (2+2),21:45,07h 05m,04:50,4.7,111,47 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Ashoka Travel and Logistics,A/C Semi Sleeper (2+2),21:00,08h 15m,05:15,4,108,40 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,National travels and logistics,Non A/C Seater / Sleeper (2+1),21:15,08h 15m,05:30,3.8,145,1 Seat available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,P K Travels,A/C Sleeper (2+1),21:00,08h 00m,05:00,4.1,111,49 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Ashoka Travel and Logistics,NON A/C Semi Sleeper (2+2),21:30,07h 30m,05:00,3.4,145,1 Seat available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,A/C Sleeper (2+1),21:45,07h 25m,05:10,4.1,1199,26 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,NON A/C Sleeper (2+1),21:30,07h 30m,05:00,3.8,108,37 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Arya Travels,A/C Sleeper (2+1),21:20,08h 10m,05:30,3.2,145,20 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,A/C Sleeper (2+1),21:15,07h 45m,05:00,4,111,48 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,DLT BUS,A/C Sleeper (2+1),21:00,08h 30m,05:30,3.8,108,40 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,NON A/C Semi Sleeper (2+2),21:15,07h 45m,05:00,2.9,129,25 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,National travels and logistics,Bharat Benz A/C Sleeper (2+1),21:45,08h 00m,05:45,3.8,134,16 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Arya Travels,A/C Seater/Sleeper (2+1),08:30,09h 00m,17:30,2.9,145,9 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,NON A/C Seater/ Sleeper (2+1),21:15,07h 45m,05:00,N/A,111,37 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,NON A/C Semi Sleeper (2+2),20:45,08h 15m,05:00,N/A,227,8 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,A/C Sleeper (2+1),21:45,07h 15m,05:00,N/A,108,41 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,NON A/C Seater/ Sleeper (2+1),21:30,07h 30m,05:00,N/A,155,18 Seats available
+Kannur (Kerala) to Bangalore Bus,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,NON A/C Seater/ Sleeper (2+1),21:00,08h 00m,05:00,N/A,145,10 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 3494,Super Express Non AC Seater Air Bus (2+2),00:45,03h 00m,03:45,2.8,111,32 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 795,Super Fast Non AC Seater (2+3),03:45,03h 35m,07:20,4.8,145,31 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 325,Super Fast Non AC Seater (2+3),05:15,03h 20m,08:35,2.6,129,6 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 500,Super Express Non AC Seater Air Bus (2+2),05:15,02h 10m,07:25,2.7,227,29 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 796,Super Fast Non AC Seater (2+3),05:45,03h 25m,09:10,2.8,134,15 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2897,Low Floor AC Seater 2+2,05:55,03h 20m,09:15,2.8,111,43 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2366,Low Floor AC Seater 2+2,06:10,03h 05m,09:15,4.2,227,13 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2715,Super Fast Non AC Seater (2+3),06:20,03h 40m,10:00,2.8,111,36 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2386,Low Floor AC Seater 2+2,06:49,03h 20m,10:09,4.8,129,21 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2899,Low Floor AC Seater 2+2,06:55,03h 20m,10:15,2.8,108,31 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 3397,Super Fast Non AC Seater (2+3),07:45,03h 35m,11:20,2.8,145,2 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1183,Super Fast Non AC Seater (2+3),07:55,03h 35m,11:30,2.8,111,37 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2901,Low Floor AC Seater 2+2,07:55,03h 20m,11:15,2.8,145,10 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 3322,Low Floor AC Seater 2+2,08:13,02h 55m,11:08,2.8,145,11 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2809,Super Fast Non AC Seater (2+3),08:15,03h 25m,11:40,2.8,145,4 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 343,Super Fast Non AC Seater (2+3),09:50,03h 35m,13:25,2.8,145,3 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2817,Super Fast Non AC Seater (2+3),09:50,03h 20m,13:10,2.8,750,39 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 691,Super Fast Non AC Seater (2+3),10:00,03h 25m,13:25,2.8,750,39 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 821,Super Fast Non AC Seater (2+3),10:40,03h 35m,14:15,2.8,600,24 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 725,Super Fast Non AC Seater (2+3),10:45,03h 35m,14:20,2.8,1100,1 Seat available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 756,Super Fast Non AC Seater (2+3),10:50,03h 45m,14:35,2.8,667,3 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 817,Super Fast Non AC Seater (2+3),11:00,03h 35m,14:35,2.8,700,9 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 990,Super Fast Non AC Seater (2+3),11:05,04h 15m,15:20,2.8,900,2 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 687,Super Fast Non AC Seater (2+3),11:10,03h 20m,14:30,2.8,700,41 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 849,Super Fast Non AC Seater (2+3),11:30,03h 50m,15:20,2.8,729,50 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 787,Super Fast Non AC Seater (2+3),11:40,03h 26m,15:06,2.8,567,48 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1989,Super Fast Non AC Seater (2+3),12:50,03h 35m,16:25,2.8,640,48 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 3015,Super Fast Non AC Seater (2+3),13:30,03h 55m,17:25,2.8,640,47 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 759,Super Fast Non AC Seater (2+3),14:00,03h 35m,17:35,2.8,473,49 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2865,Super Fast Non AC Seater (2+3),14:05,03h 25m,17:30,2.8,640,47 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2004,Super Fast Non AC Seater (2+3),14:20,04h 00m,18:20,2.8,640,50 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 701,Super Fast Non AC Seater (2+3),15:05,03h 05m,18:10,1.1,640,49 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 313,Super Fast Non AC Seater (2+3),15:35,03h 10m,18:45,2.8,627,47 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 277,Super Fast Non AC Seater (2+3),15:35,03h 20m,18:55,2.8,469,48 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 780,Super Fast Non AC Seater (2+3),15:45,03h 25m,19:10,2.8,469,49 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 722,Super Fast Non AC Seater (2+3),15:50,03h 35m,19:25,2.8,627,50 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2365,Low Floor AC Seater 2+2,16:25,03h 20m,19:45,2.1,700,22 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2385,Low Floor AC Seater 2+2,17:25,03h 20m,20:45,2.2,599,27 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 779,Super Fast Non AC Seater (2+3),18:00,03h 45m,21:45,2.8,599,49 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2884,Super Fast Non AC Seater (2+3),18:10,03h 50m,22:00,2.8,648,53 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2711,Super Fast Non AC Seater (2+3),18:10,03h 20m,21:30,2.8,675,50 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1886,Low Floor AC Seater 2+2,18:15,03h 05m,21:20,1.6,949,29 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2819,Super Fast Non AC Seater (2+3),18:45,03h 30m,22:15,2.8,950,48 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 765,Super Fast Non AC Seater (2+3),19:00,03h 20m,22:20,2.8,647,49 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 3191,Super Fast Non AC Seater (2+3),19:15,02h 30m,21:45,2.8,999,50 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 723,Super Fast Non AC Seater (2+3),19:15,03h 30m,22:45,2.8,832,50 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1902,Super Fast Non AC Seater (2+3),19:40,03h 20m,23:00,2.8,698,47 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2572,Super Fast Non AC Seater (2+3),19:40,04h 10m,23:50,2.8,950,43 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 757,Super Fast Non AC Seater (2+3),19:45,03h 35m,23:20,2.8,700,45 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 994,Super Fast Non AC Seater (2+3),20:00,04h 05m,00:05,2.8,649,6 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2712,Super Fast Non AC Seater (2+3),20:00,02h 50m,22:50,2.8,899,2 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1877,Low Floor AC Seater 2+2,20:15,03h 05m,23:20,1.5,899,2 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 96,Swift Deluxe Non AC Air Bus (2+2),20:20,04h 15m,00:35,2.8,900,29 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2517,Swift Deluxe Non AC Air Bus (2+2),20:26,02h 50m,23:16,2.8,700,18 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2569,Super Fast Non AC Seater (2+3),20:35,04h 00m,00:35,2.8,550,21 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 549,Super Express Non AC Seater Air Bus (2+2),20:35,04h 15m,00:50,1,849,22 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 125,Super Deluxe Non AC Seater Air Bus (2+2),20:40,02h 55m,23:35,2.8,700,15 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1962,Super Fast Non AC Seater (2+3),20:45,03h 14m,23:59,2.8,599,3 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 665,Super Fast Non AC Seater (2+3),20:50,03h 25m,00:15,2.8,930,17 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1211,AC MULTI AXLE,20:55,03h 10m,00:05,2.8,700,27 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 588,Super Express Non AC Seater Air Bus (2+2),21:00,03h 00m,00:00,2.8,890,26 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 170,Swift Deluxe Non AC Air Bus (2+2),21:10,04h 15m,01:25,2.8,699,16 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 475,Super Express Non AC Seater Air Bus (2+2),21:40,02h 55m,00:35,2.8,700,22 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2723,Super Fast Non AC Seater (2+3),21:45,03h 25m,01:10,2.8,700,27 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2783,Super Express Non AC Seater Air Bus (2+2),21:50,03h 10m,01:00,2.8,1999,24 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 594,Super Express Non AC Seater Air Bus (2+2),21:55,03h 30m,01:25,2.8,2774,18 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 486,Super Express Non AC Seater Air Bus (2+2),22:00,02h 30m,00:30,2.8,269,7 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 819,Super Fast Non AC Seater (2+3),22:05,03h 40m,01:45,2.8,309,12 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 561,Super Express Non AC Seater Air Bus (2+2),22:10,03h 45m,01:55,2.8,309,14 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1955,Super Fast Non AC Seater (2+3),22:20,03h 15m,01:35,2.8,383,22 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2131,Super Express Non AC Seater Air Bus (2+2),22:35,03h 15m,01:50,2.8,309,14 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2996,Super Fast Non AC Seater (2+3),22:55,03h 35m,02:30,2.8,309,29 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 811,Super Fast Non AC Seater (2+3),23:00,03h 20m,02:20,2.7,309,14 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2863,Super Express Non AC Seater Air Bus (2+2),23:00,02h 30m,01:30,2.8,383,5 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 559,Super Express Non AC Seater Air Bus (2+2),23:10,03h 00m,02:10,2.8,269,15 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 312,Super Fast Non AC Seater (2+3),23:15,03h 30m,02:45,2.8,309,18 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 1377,AC MULTI AXLE,23:15,03h 05m,02:20,2.8,255,18 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 585,Super Express Non AC Seater Air Bus (2+2),23:30,03h 25m,02:55,2.8,494,25 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 915,Super Fast Non AC Seater (2+3),23:45,03h 25m,03:10,2.8,269,21 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 352,Super Fast Non AC Seater (2+3),23:45,03h 25m,03:10,2.8,383,27 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2985,Super Fast Non AC Seater (2+3),23:55,03h 40m,03:35,2.8,255,14 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,A/C Seater / Sleeper (2+1),11:35,15h 05m,02:40,4.1,261,22 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Sheraton Tours and Travels,A/C Seater/Sleeper (2+1),22:27,03h 18m,01:45,4.4,269,20 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Greenline kerala,A/C Seater Push Back (2+2),23:50,02h 55m,02:45,3.1,450,15 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,CGR Tranz,A/C Semi Sleeper (2+2),23:10,03h 05m,02:15,N/A,700,38 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),00:15,02h 45m,03:00,3,750,9 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),01:15,03h 15m,04:30,3,800,16 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),02:05,02h 45m,04:50,3.9,700,29 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,A/C Semi Sleeper (2+2),02:05,02h 45m,04:50,3.9,799,24 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,A/C Sleeper (2+1),02:15,02h 15m,04:30,3.9,600,32 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),02:30,02h 00m,04:30,3.9,630,36 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Ubc travels,A/C Semi Sleeper (2+2),22:30,02h 30m,01:00,3.7,667,41 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:31,02h 54m,01:25,3,650,12 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Adrin Travels,A/C Seater/Sleeper (2+1),23:05,02h 55m,02:00,3.9,900,6 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Blue Bird Travels,A/C Seater Push Back (2+2),23:15,03h 35m,02:50,3.1,599,3 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,A/C Semi Sleeper (2+2),23:20,02h 55m,02:15,3.9,600,7 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Ubc travels,A/C Seater/Sleeper (2+1),23:20,03h 40m,03:00,3.7,800,6 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Sona Travels,Bharat Benz A/C Sleeper (2+1),23:20,03h 25m,02:45,3.2,650,1 Seat available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,A/C Sleeper (2+1),23:30,02h 35m,02:05,3.9,700,20 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Cochin Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:30,03h 00m,02:30,4,850,29 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,A/C Sleeper (2+1),23:30,03h 30m,03:00,3.9,600,1 Seat available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,A/C Sleeper (2+1),23:35,03h 10m,02:45,4.1,899,20 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Cochin Bus,A/C Sleeper (2+1),23:40,02h 50m,02:30,4,599,9 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Kalpaka Travels 1,A/C Sleeper (2+1),23:40,02h 50m,02:30,4,1045,34 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:40,03h 05m,02:45,4.1,1000,6 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,LIYAS TOURS,Bharat Benz A/C Sleeper (2+1),23:47,03h 53m,03:40,3.8,1099,18 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,SG Travels,Bharat Benz A/C Sleeper (2+1),23:50,02h 40m,02:30,4.7,513,3 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,A/C Semi Sleeper (2+2),23:50,03h 45m,03:35,3.9,688,29 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,A/C Semi Sleeper (2+2),23:59,03h 36m,03:35,3.9,640,12 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Arya Travels,A/C Sleeper (2+1),23:59,03h 16m,03:15,3.2,620,22 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Arya Travels,A/C Seater/Sleeper (2+1),23:59,03h 16m,03:15,3.2,640,20 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,EMERALD TRAVELS,A/C Sleeper (2+1),02:30,02h 00m,04:30,3,640,26 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Galaxy Tours,2+1 Air Suspension A/C Seater / Sleeper,02:45,03h 15m,06:00,2.7,640,6 Seats available
+Thrissur to Kozhikode Bus,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Galaxy Tours,A/C Semi Sleeper (2+2),02:45,03h 15m,06:00,2.7,700,23 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2386,Low Floor AC Seater 2+2,00:00,10h 09m,10:09,3,699,13 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 3322,Low Floor AC Seater 2+2,02:00,09h 08m,11:08,3,950,20 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 3015,Super Fast Non AC Seater (2+3),05:30,11h 55m,17:25,3,854,2 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 277,Super Fast Non AC Seater (2+3),07:30,11h 25m,18:55,3,949,5 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 722,Super Fast Non AC Seater (2+3),07:45,11h 40m,19:25,3,999,2 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 780,Super Fast Non AC Seater (2+3),08:05,11h 05m,19:10,3,850,5 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 1119,Super Fast Non AC Seater (2+3),08:15,11h 45m,20:00,3,649,11 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2365,Low Floor AC Seater 2+2,09:00,10h 45m,19:45,3,950,16 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2385,Low Floor AC Seater 2+2,10:00,10h 45m,20:45,3,600,19 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 1886,Low Floor AC Seater 2+2,11:00,10h 20m,21:20,3,999,10 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 1877,Low Floor AC Seater 2+2,13:00,10h 20m,23:20,3,899,16 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 588,Super Express Non AC Seater Air Bus (2+2),13:32,10h 28m,00:00,3,648,4 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 1211,AC MULTI AXLE,14:15,09h 50m,00:05,3.4,700,5 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 486,Super Express Non AC Seater Air Bus (2+2),15:45,08h 45m,00:30,2.7,599,25 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 1377,AC MULTI AXLE,16:01,10h 19m,02:20,3,920,3 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 667,Super Fast Non AC Seater (2+3),16:15,10h 15m,02:30,3,849,17 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 862,Super Fast Non AC Seater (2+3),16:20,12h 20m,04:40,3,749,7 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2985,Super Fast Non AC Seater (2+3),16:45,10h 50m,03:35,3,750,12 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 431,Super Fast Non AC Seater (2+3),17:15,11h 30m,04:45,3,890,10 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 43,Swift Deluxe Non AC Air Bus (2+2),17:40,09h 41m,03:21,3,690,4 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 377,AC MULTI AXLE,18:10,08h 39m,02:49,4.6,699,2 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 47,Swift Deluxe Non AC Air Bus (2+2),18:30,09h 22m,03:52,3,700,5 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2956,Super Express Non AC Seater Air Bus (2+2),18:45,10h 40m,05:25,3,700,6 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 49,Swift Deluxe Non AC Air Bus (2+2),19:10,09h 10m,04:20,2.1,1050,2 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 425,Super Express Non AC Seater Air Bus (2+2),19:15,08h 55m,04:10,2.3,1079,11 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 507,Super Express Non AC Seater Air Bus (2+2),20:00,07h 35m,03:35,3,269,9 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2894,Low Floor AC Seater 2+2,20:01,10h 25m,06:26,3,269,11 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 528,Super Express Non AC Seater Air Bus (2+2),20:45,07h 55m,04:40,3.5,269,8 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 45,Swift Deluxe Non AC Air Bus (2+2),21:10,09h 03m,06:13,3.8,261,6 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 325,Super Fast Non AC Seater (2+3),22:05,10h 30m,08:35,2.6,309,10 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2366,Low Floor AC Seater 2+2,23:00,10h 15m,09:15,3,261,11 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 500,Super Express Non AC Seater Air Bus (2+2),23:45,07h 40m,07:25,2.8,309,11 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Madhavi Travels,A/C Sleeper (2+1),19:50,08h 40m,04:30,4.3,269,3 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,NON A/C Semi Sleeper (2+2),21:00,09h 30m,06:30,3.9,309,10 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,BLM Transports,A/C Sleeper (2+1),20:15,08h 45m,05:00,3.5,255,17 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:30,08h 30m,05:00,3.1,255,13 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,Bharat Benz A/C Sleeper (2+1),19:00,09h 00m,04:00,3.3,309,6 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),18:01,10h 59m,05:00,3.5,288,15 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Galaxy Tours,2+1 Air Suspension A/C Seater / Sleeper,21:00,09h 00m,06:00,2.6,383,19 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),20:40,07h 50m,04:30,3.7,309,11 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,LIYAS TOURS,Bharat Benz A/C Sleeper (2+1),16:45,10h 55m,03:40,3.6,261,17 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),21:35,09h 25m,07:00,3.4,269,1 Seat available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),16:00,11h 00m,03:00,3.5,268,31 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Galaxy Tours,A/C Semi Sleeper (2+2),21:00,09h 00m,06:00,2.5,269,9 Seats available
+Thiruvananthapuram to Kozhikode Bus,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,EMERALD TRAVELS,A/C Sleeper (2+1),19:30,09h 00m,04:30,2.6,309,5 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 45,Swift Deluxe Non AC Air Bus (2+2),00:11,06h 02m,06:13,3.9,231,11 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2366,Low Floor AC Seater 2+2,02:25,06h 50m,09:15,3.6,230,13 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1183,Super Fast Non AC Seater (2+3),05:00,06h 30m,11:30,4.4,494,27 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 756,Super Fast Non AC Seater (2+3),07:15,07h 20m,14:35,3.6,383,23 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 725,Super Fast Non AC Seater (2+3),07:30,06h 50m,14:20,3.6,269,23 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 787,Super Fast Non AC Seater (2+3),07:50,07h 16m,15:06,3.6,540,41 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 3015,Super Fast Non AC Seater (2+3),09:30,07h 55m,17:25,3.6,900,50 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2004,Super Fast Non AC Seater (2+3),09:45,08h 35m,18:20,3.6,700,47 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 759,Super Fast Non AC Seater (2+3),10:25,07h 10m,17:35,3.6,900,35 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 313,Super Fast Non AC Seater (2+3),12:00,06h 45m,18:45,3.2,600,22 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1119,Super Fast Non AC Seater (2+3),12:30,07h 30m,20:00,3.6,800,43 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2365,Low Floor AC Seater 2+2,12:40,07h 05m,19:45,3.6,700,17 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1886,Low Floor AC Seater 2+2,14:30,06h 50m,21:20,1.4,667,46 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2884,Super Fast Non AC Seater (2+3),14:30,07h 30m,22:00,3.6,630,22 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 3191,Super Fast Non AC Seater (2+3),15:15,06h 30m,21:45,3.6,700,42 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1902,Super Fast Non AC Seater (2+3),15:45,07h 15m,23:00,3.7,600,46 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 757,Super Fast Non AC Seater (2+3),16:05,07h 15m,23:20,3.6,649,19 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1877,Low Floor AC Seater 2+2,16:30,06h 50m,23:20,2.5,799,9 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1962,Super Fast Non AC Seater (2+3),17:00,06h 59m,23:59,3.6,899,20 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2783,Super Express Non AC Seater Air Bus (2+2),17:30,07h 30m,01:00,3.6,649,29 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1703,Super Fast Non AC Seater (2+3),17:40,07h 45m,01:25,3.6,899,23 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 561,Super Express Non AC Seater Air Bus (2+2),18:00,07h 55m,01:55,3.6,630,42 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 125,Super Deluxe Non AC Seater Air Bus (2+2),18:05,05h 30m,23:35,3.6,600,4 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2131,Super Express Non AC Seater Air Bus (2+2),18:30,07h 20m,01:50,3.6,499,31 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 475,Super Express Non AC Seater Air Bus (2+2),18:45,05h 50m,00:35,3.6,599,4 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2996,Super Fast Non AC Seater (2+3),19:15,07h 15m,02:30,3.6,700,32 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1377,AC MULTI AXLE,19:35,06h 45m,02:20,3.6,949,44 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 559,Super Express Non AC Seater Air Bus (2+2),19:46,06h 24m,02:10,3.8,600,8 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1028,Super Fast Non AC Seater (2+3),20:10,07h 20m,03:30,3.6,599,13 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2071,Super Express Non AC Seater Air Bus (2+2),20:30,06h 00m,02:30,3.6,900,18 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2985,Super Fast Non AC Seater (2+3),20:35,07h 00m,03:35,3.6,900,15 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 377,AC MULTI AXLE,21:14,05h 35m,02:49,2.7,700,9 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 847,Super Fast Non AC Seater (2+3),21:15,06h 30m,03:45,3.6,700,11 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 862,Super Fast Non AC Seater (2+3),21:20,07h 20m,04:40,3.6,599,24 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 523,Super Express Non AC Seater Air Bus (2+2),21:30,04h 50m,02:20,3.9,650,20 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 672,Super Fast Non AC Seater (2+3),21:50,06h 25m,04:15,3.1,1249,7 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 3276,Swift Deluxe Non AC Air Bus (2+2),22:00,06h 20m,04:20,3.6,1000,24 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 49,Swift Deluxe Non AC Air Bus (2+2),22:20,06h 00m,04:20,4.7,1000,26 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 507,Super Express Non AC Seater Air Bus (2+2),22:50,04h 45m,03:35,3.6,285,16 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2690,Super Fast Non AC Seater (2+3),23:06,06h 24m,05:30,3.7,273,21 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Madhavi Travels,A/C Sleeper (2+1),18:50,08h 10m,03:00,5,350,31 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:59,04h 31m,04:30,3.5,452,10 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Sonia Travels,A/C Seater/Sleeper (2+1),19:10,07h 19m,02:29,4.1,419,8 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Ubc travels,A/C Seater/Sleeper (2+1),18:00,09h 00m,03:00,3.7,398,21 Seats available
+Kottayam to Kozhikode Bus,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),23:59,07h 01m,07:00,3,419,34 Seats available
