@@ -25,7 +25,7 @@ STATES = [
     "Punjab",
     "Bihar",
     "Goa",
-    "Telagana",
+    "Telangana",
     "Rajasthan",
     "South Bengal",
     "Uttar pradesh"
