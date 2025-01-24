@@ -20,3 +20,10 @@ This project focuses on automating the extraction of bus route data from the Red
 - **🔍 Deliver Actionable Insights**: Enable users to analyze bus services and make informed travel choices.
 
 This project integrates 🕸️ web scraping, 🗄️ structured data storage, and 📊 interactive visualization to create an efficient and accessible tool for exploring bus services.
+
+---
+### 📬 Contact
+**Author**: Rohith V  
+**Email**: Rohithroshan047@gmail.com  
+
+⭐ **If this project helps you, don't forget to star it on GitHub!**
