@@ -26,4 +26,4 @@ This project integrates 🕸️ web scraping, 🗄️ structured data storage, a
 **Author**: Rohith V  
 **Email**: Rohithroshan047@gmail.com  
 
-⭐ **If this project helps you, don't forget to star it on GitHub!**
+⭐ **If this project helps you, don't forget to star it on GitHub!** ⭐
